@@ -1,4 +1,4 @@
-<h2> Hi, I'm Blackbird! <img src="https://media.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Blackbird! <img src="https://media.giphy.com/media/q4RahsFvkpVKw/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <h3 align="left">Languages and Tools:</h3>
