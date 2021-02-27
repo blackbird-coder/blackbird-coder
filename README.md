@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blackbird</h1>
+## Hi! I'm Blackbird 👋.
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <h3 align="left">Languages and Tools:</h3>
