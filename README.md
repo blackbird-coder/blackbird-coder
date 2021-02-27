@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 
-[![Twitter: blackbird_coder(https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
+[![Twitter: blackbird_coder](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
 
 
 
