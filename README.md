@@ -4,7 +4,7 @@
 <p><em>Studying Computer Engineering at <a href="http://www.ua.es">University of Alicante, Spain.</a></em></p>
 
 
-[![Twitter: blackbird_coder](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
+[![Twitter: blackbird](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
 
 
 
