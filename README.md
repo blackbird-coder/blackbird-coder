@@ -5,6 +5,7 @@
 
 
 [![Twitter: blackbird](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
+[![GitHub followers](https://img.shields.io/github/followers/blackbird-coder?label=Follow&style=social)](https://github.com/blackbird-coder/?tab=follow)
 
 
 
