@@ -9,13 +9,15 @@
 [![Twitter: blackbird](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
 
 
-### About me...  
+### About me ...  
 
 ```javascript
-const blackbird = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const blackbird ={
+  code: [C, C++, C#, CSS, Java, Javascript, Ruby, Python, Php, Scala, Swift],
+  tools: [Arduino, Raspberry, Git, Node JS, Kotlin, React, Docker, MySql, Bash, Firebase],
+  software: [Illustrator, Photoshop, Unity, Blender],
+  os: [Windows, Debian, Ubuntu, Kali Linux, ParrotSec, Manjaro],
+  interests: ["cyber security", "ethical hacking", "machine learning", "neural networks"]
 }
 ```
 
