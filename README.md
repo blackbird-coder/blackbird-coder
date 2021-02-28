@@ -3,7 +3,7 @@
 
 <p><em>Studying Computer Engineering at <a href="http://www.ua.es">University of Alicante</a>, Spain.</em></p>
 <p><em>Cyber Security and Artificial Intelligence Enthusiast.</em></p>
-<p><em>Maths Geek.</em></p>
+<p><em>Astrophysics and Maths Geek.</em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/blackbird-coder?label=Follow&style=social)](https://github.com/blackbird-coder/?tab=follow)
 [![Twitter: blackbird](https://img.shields.io/twitter/follow/blackbird_coder?style=social)](https://twitter.com/blackbird_coder)
