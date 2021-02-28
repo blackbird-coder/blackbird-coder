@@ -12,7 +12,7 @@
 ### About me ...  
 
 ```javascript
-const blackbird={
+const blackbird = {
   code: [C, C++, C#, Matlab, Java, Javascript, Ruby, Python, Php, Scala, Swift],
   tools: [Arduino, Raspberry, Git, Node, Kotlin, React, Docker, MySql, Bash, Firebase],
   software: [Illustrator, Photoshop, Unity, Blender],
